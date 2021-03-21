@@ -1,0 +1,12 @@
+{
+  "name": "WiseFin",
+  "displayName": "WiseFin",
+  "expo": {
+    "name": "WiseFin",
+    "slug": "WiseFin",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
